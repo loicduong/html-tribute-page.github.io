@@ -52,7 +52,8 @@ a:visited {
   #main {
     margin: 0;
   }
-}
+} 
+
 
 img {
   max-width: 100%;
@@ -71,9 +72,14 @@ img {
   margin: 15px 0 5px 0;
 }
 
-@media (max-width: 460px) {
+@media (max-width: 600px) {
   #img-caption {
     font-size: 1.4rem;
+  }
+
+  #tribute-info ul {
+    padding-left: 2rem;
+    padding-right: 1rem;
   }
 }
 
@@ -87,6 +93,7 @@ ul {
   margin: 0 auto 50px auto;
   text-align: left;
   line-height: 1.6;
+  text-align: justify;
 }
 
 li {
@@ -99,3 +106,4 @@ blockquote {
   margin: 0 auto 50px auto;
   text-align: center;
 }
+
