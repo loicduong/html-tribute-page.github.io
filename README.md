@@ -1,2 +1,2 @@
 # Link
-https://dploc96.github.io/tribute-page.github.io/
+https://loicduong.github.io/tribute-page.github.io/
